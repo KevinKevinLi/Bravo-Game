@@ -1,0 +1,81 @@
+/Users/zhaowenbo/Desktop/game development/BRAVO/obj/Debug/Assembly-CSharp.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/UnityEngine.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/UnityEditor.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/nunit.framework.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/Unity.Cecil.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/Unity.DataContract.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/zhaowenbo/Desktop/game development/BRAVO/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/zhaowenbo/Desktop/game development/BRAVO/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/obj/Debug/Assembly-CSharp.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/UnityEditor.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/nunit.framework.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/Unity.Cecil.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/Unity.DataContract.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/zhaowenbo/Desktop/BRAVO_/BRAVO/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/obj/Debug/Assembly-CSharp.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/UnityEditor.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/nunit.framework.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/Unity.Cecil.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/Unity.DataContract.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/zhaowenbo/Desktop/BRAVO_v1/BRAVO_/BRAVO/Temp/bin/Debug/Assembly-CSharp.dll
